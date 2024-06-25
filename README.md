@@ -16,4 +16,5 @@ reach 100M paperclips
 64m
 128m
 256m
-Need arouond 500m money
+# Stage 1 goal: 
+## Need arouond 500M money and 100M paperclips
